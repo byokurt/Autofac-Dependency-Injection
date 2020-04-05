@@ -380,7 +380,6 @@ Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\bin\System.Web.WebP
 Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\bin\System.Web.WebPages.Razor.xml
 Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\bin\Antlr3.Runtime.pdb
 Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\obj\Debug\AutoFackExample.csprojAssemblyReference.cache
 Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\obj\Debug\AutoFackExample.csproj.CoreCompileInputs.cache
 Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\obj\Debug\AutoFackExample.csproj.CopyComplete
 Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\obj\Debug\AutoFackExample.dll
