@@ -384,3 +384,4 @@ Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\obj\Debug\AutoFackE
 Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\obj\Debug\AutoFackExample.csproj.CopyComplete
 Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\obj\Debug\AutoFackExample.dll
 Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\obj\Debug\AutoFackExample.pdb
+Y:\WebProjeleri\Autofac-Dependency-Injection\AutoFackExample\obj\Debug\AutoFackExample.csprojAssemblyReference.cache
