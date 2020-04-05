@@ -1,4 +1,4 @@
-# Autofac-Dependency-Injection
+# Autofac Dependency Injection
 
 Merhabalar bu yazımızda "Autofac" ile .net framework üzerinde dependency injection kullanımı test edeceğiz. Genel olarak konuşmak gerekirse Autofac .Net Framework için geliştirilmiş bir IOC container'dır.
 
